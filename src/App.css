@@ -4,7 +4,10 @@
   width:max-content;
   padding:10px;
 }
-
+p{
+  font-size: small;
+  font-weight: 550;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

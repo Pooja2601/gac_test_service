@@ -1,4 +1,3 @@
-// import Table from './component/Table/index.js'
 import Table from './component/Table/index.js'
 import './App.css';
 
@@ -6,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <p><b>Services and Charges</b></p>
+     <p>Services and Charges</p>
      <Table/>
     </div>
   );
