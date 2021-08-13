@@ -1,0 +1,12 @@
+table {
+    width:max-content;
+  }
+  table, th, td {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+  }
+  th, td {
+    font-size: 10px;
+    padding: 10px;
+    text-align: left;
+}
